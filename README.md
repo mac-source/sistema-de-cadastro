@@ -3,6 +3,6 @@
 > Status do projeto: em desenvolvimento
 
 ```
-npm install pyhton
+node app.js
 ```
 
